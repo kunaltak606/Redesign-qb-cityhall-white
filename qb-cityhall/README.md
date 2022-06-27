@@ -1,3 +1,4 @@
+# Redesign by ME
 # qb-cityhall
 City Services for QB-Core Framework
 
@@ -30,11 +31,9 @@ ensure qb-cityhall
 ```
 
 ## Screenshots
-![City Services](https://i.imgur.com/l6ZRlXP.png)
-![Request Birth Certificate](https://i.imgur.com/zJRiuDI.png)
-![Request Driver License](https://i.imgur.com/2scxBew.png)
-![Request Weapon License](https://i.imgur.com/pSudfVl.png)
-![Apply For a Job](https://i.imgur.com/26Kd0FU.png)
+![City Services](https://i.imgur.com/3uIxcJr.jpg)
+![Request Birth Certificate](https://i.imgur.com/wYNbaDR.jpg)
+![Apply For a Job](https://i.imgur.com/HXr66qa.jpg)
 ![Cityhall DrawText Interaction](https://i.imgur.com/Uxh2GZC.png)
 ![Cityhall QB-Target Interaction](https://i.imgur.com/K54cMLt.png)
 ![Driving School Sending And Receiving Mail](https://i.imgur.com/iJof4jI.png)
